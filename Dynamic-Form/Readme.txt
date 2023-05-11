@@ -23,7 +23,7 @@ Syntax: Table_name,Dress,select,"Dress: Shirt Pants",VARCHAR(100),
 
 For developer:
 
-The test file is the backbone of this project. Brake it and you don't have a project. To fix it you have to research every bit of information you have on the internet. And which is nothing. 
+The test file is the backbone of this project. Break it and you don't have a project. To fix it you have to research every bit of information you have on the internet. And which is nothing. 
 
 This file is reading the CSV files and breaking them into pieces and making them accessible for testForm file to make a dynamic form.
 
